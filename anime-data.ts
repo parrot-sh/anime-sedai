@@ -762,13 +762,13 @@ const data: Data = {
       titleEn: "Alya Sometimes Hides Her Feelings in Russian",
       score: 5.6,
     },
-    { titleZh: "悲喜渔生", titleEn: "Fisherman's Songs", score: 7.3 },
+    { titleZh: "啦啦啦啦啦", titleEn: "Fisherman's Songs", score: 7.3 },
     {
       titleZh: "亚托莉 -我挚爱的时光-",
       titleEn: "Atri: My Dear Moments",
       score: 6.3,
     },
-    { titleZh: "缘结甘神家", titleEn: "The Elusive Samurai", score: 5.9 },
+    { titleZh: "迷宫饭", titleEn: "The Elusive Samurai", score: 10.0 },
   ],
 }
 
